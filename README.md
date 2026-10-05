@@ -1,3 +1,3 @@
-# m7q4r9p2x6
+# meo-beo-ngu-ngay
 
 Public distribution assets.
