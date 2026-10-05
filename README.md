@@ -1,2 +1,3 @@
-# YGF2W-Client-Updates
-Signed Client and datas update packages for the YGF2W launcher. Public distribution files only.
+# m7q4r9p2x6
+
+Public distribution assets.
